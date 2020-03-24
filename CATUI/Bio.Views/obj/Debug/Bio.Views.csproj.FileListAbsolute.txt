@@ -1,0 +1,47 @@
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Views.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Views.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Data.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.DataProviders.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\JulMar.Wpf.Helpers.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Data.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.DataProviders.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\bin\Debug\JulMar.Wpf.Helpers.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Views\BioFloatingWindow.baml
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Views\BioFloatingWindow.g.cs
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views_MarkupCompile.cache
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.g.resources
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Views.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Views.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Data.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.DataProviders.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\JulMar.Wpf.Helpers.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.Data.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\Bio.DataProviders.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\bin\Debug\JulMar.Wpf.Helpers.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Views\BioFloatingWindow.baml
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Views\BioFloatingWindow.g.cs
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views_MarkupCompile.cache
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.g.resources
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\Bio.Views.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\Bio.Views.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\Bio.Data.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\Bio.DataProviders.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\JulMar.Wpf.Helpers.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\Bio.Data.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\Bio.DataProviders.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\bin\Debug\JulMar.Wpf.Helpers.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.csprojAssemblyReference.cache
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Views\BioFloatingWindow.baml
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Views\BioFloatingWindow.g.cs
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views_MarkupCompile.cache
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.g.resources
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.csproj.CoreCompileInputs.cache
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.csproj.CopyComplete
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Views\obj\Debug\Bio.Views.pdb

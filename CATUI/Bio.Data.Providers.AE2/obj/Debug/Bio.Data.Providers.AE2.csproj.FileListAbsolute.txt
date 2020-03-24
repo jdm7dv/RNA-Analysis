@@ -1,0 +1,31 @@
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.Providers.AE2.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.Providers.AE2.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.DataProviders.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.DataProviders.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.pdb
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.g.resources
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.dll
+C:\Users\Jonathan_Moore.LAB1\Documents\Visual Studio 2012\Projects\Biology\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.Providers.AE2.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.Providers.AE2.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.DataProviders.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.DataProviders.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.g.resources
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2010\Projects\Windows\_MyFiles\Apps\RNA Analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.Providers.AE2.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.Providers.AE2.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.DataProviders.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.DataProviders.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\bin\Debug\Bio.Data.pdb
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.csprojAssemblyReference.cache
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.g.resources
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.csproj.CoreCompileInputs.cache
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.csproj.CopyComplete
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.dll
+D:\MSFT_Research\StationA\rna-analysis\CATUI\Bio.Data.Providers.AE2\obj\Debug\Bio.Data.Providers.AE2.pdb
